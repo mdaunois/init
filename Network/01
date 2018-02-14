@@ -1,0 +1,1 @@
+fconfig | grep "flags" | grep "mtu" | cut -d : -f1
